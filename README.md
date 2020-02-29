@@ -1,2 +1,3 @@
 # helloword
-just another repository
+hello  github
+one day IT ，ALL IT humans
